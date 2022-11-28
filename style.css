@@ -123,3 +123,21 @@ body {
     margin-top: 8px;
     vertical-align: middle;
 }
+
+.column-desc {
+    float: left;
+    width: 50%;
+    /* background-color: grey; */
+    display: block;
+    justify-content: center;
+    margin: 0 50px;
+}
+
+.column-faq {
+    float: center;
+    width: 70%;
+    /* background-color: grey; */
+    display: block;
+    justify-content: center;
+    margin: 0 50px;
+}
